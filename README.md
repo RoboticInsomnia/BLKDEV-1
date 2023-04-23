@@ -1,6 +1,6 @@
-# BLKDEV 8bit Game
+# BLKDEV-1 8bit Game
 
-### Overview of BLKDEV
+### Overview of BLKDEV-1 by Robotic Insomnia Co.
 
 In "BLKDEV", you play as a young developer named "Ori" who is on a quest to find the mighty floppy disk. The disk is said to contain the most powerful code ever written, capable of creating entire worlds and bending reality to its will. Legend has it that the disk was hidden away by a group of ancient programmers who feared its power falling into the wrong hands.
 
